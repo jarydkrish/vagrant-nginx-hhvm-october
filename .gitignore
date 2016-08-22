@@ -1,0 +1,3 @@
+.vagrant
+apps/october/*
+!apps/october/.keep
