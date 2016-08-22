@@ -19,4 +19,7 @@ then
   # Fix permissions
   chown $USERNAME:www-data -R /var/www
 
+  # Regenerate key
+  su -c "cd $APP_INSTALL_DIRECTORY && php artisan key:generate" $USERNAME
+
 fi

@@ -1,5 +1,4 @@
 # OctoberCMS - HHVM - NginX Vagrant Setup
-Not for production use! Keys are stored in the code, which is a big no-no.
 
 ## Requirements
 
