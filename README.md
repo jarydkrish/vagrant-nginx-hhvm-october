@@ -45,3 +45,8 @@ on your development machine.
 
 The `october` user is created as a sudoer without a password, and your local
 public SSH key is added as an authorized key for the `october` user.
+
+## Copyright and License
+Copyright (c) 2016 [Jaryd Krishnan](https://github.com/jarydkrish)
+
+This project is licensed under the [MIT License](LICENSE.md).
